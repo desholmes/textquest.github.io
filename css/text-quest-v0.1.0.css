@@ -1,3 +1,0 @@
-html,body{height:100%}body{padding:0;margin:0;min-height:100%;-ms-scroll-chaining:none;overscroll-behavior:none;background-color:#222222;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.hide{display:none}#terminal{height:100%;width:90%}#terminal *{font-size:1.5rem}.logo{line-height:0.6rem}.power-unlocked{-webkit-animation:power-ani 0.6s 4;animation:power-ani 0.6s 4;color:#37debc}@-webkit-keyframes power-ani{0%{color:#37debc}50%{color:#2778ae}100%{color:#37debc}}@keyframes power-ani{0%{color:#37debc}50%{color:#2778ae}100%{color:#37debc}}
-
-/*# sourceMappingURL=text-quest-v0.1.0.css.map */
